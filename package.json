@@ -1,0 +1,28 @@
+{
+  "name": "haproxy-stats",
+  "version": "0.0.1",
+  "description": "Browserify based haproxy log analyzer",
+  "main": "index.js",
+  "dependencies": {
+    "d3": "^3.3.6",
+    "brfs": "^0.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamat/haproxy-stats.git"
+  },
+  "keywords": [
+    "haproxy",
+    "browserify"
+  ],
+  "author": "Lars Jacob <jacob.lars@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamat/haproxy-stats/issues"
+  },
+  "homepage": "https://github.com/iamat/haproxy-stats"
+}
